@@ -19,11 +19,19 @@
 </div>
 
 # Contact 
-**Github** [mBlomsterberg](https://github.com/mBlomsterberg) 
+<div style="height: 150px"> 
+<p style="font-weight: bold;">
+Github: 
+<a href="https://github.com/mBlomsterberg">mBlomsterberg</a>
+</p>
+<p style="font-weight: bold;">
+linkedin: 
+<a href="https://www.linkedin.com/in/mikkel-blomsterberg-663b785a/">Mikkel Blomsterberg</a>
+</p>
+</div>
 
-**Linkedin** [Mikkel Blomsterberg](https://www.linkedin.com/in/mikkel-blomsterberg-663b785a/)
  <img align="right" src="./github-metrics.svg" width="300">
-<div style="height: 150px"></div>
+
 
 # License
 
