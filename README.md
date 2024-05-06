@@ -21,10 +21,10 @@
 
 
 # About
-  <div align="center">
-      <div style="width: 412px">Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
+  <div align="left">
+      <div style="width: 408px">Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
       </div>
-      <img src="./github-metrics.svg" alt="Metrics" style="width: 412px;">
+      <img align="right" src="./github-metrics.svg" alt="Metrics" style="width: 412px;">
   </div>
 
 # Contact 
