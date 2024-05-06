@@ -20,6 +20,7 @@
 
 # Contact 
 <div> 
+ <img align="right" src="./github-metrics.svg" width="300">
 <p style="font-weight: bold;">
 Github: 
 <a href="https://github.com/mBlomsterberg">mBlomsterberg</a>
@@ -33,8 +34,6 @@ Linkedin:
 <br/>
 <br/>
 </div>
-
- <img align="right" src="./github-metrics.svg" width="300">
 
 
 # License
