@@ -19,15 +19,19 @@
 </div>
 
 # Contact 
-<div style="height: 150px"> 
+<div> 
 <p style="font-weight: bold;">
 Github: 
 <a href="https://github.com/mBlomsterberg">mBlomsterberg</a>
 </p>
 <p style="font-weight: bold;">
-linkedin: 
+Linkedin: 
 <a href="https://www.linkedin.com/in/mikkel-blomsterberg-663b785a/">Mikkel Blomsterberg</a>
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
 </div>
 
  <img align="right" src="./github-metrics.svg" width="300">
