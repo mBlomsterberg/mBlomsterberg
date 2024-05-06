@@ -23,7 +23,7 @@
 # About
 <table>
   <tr>
-      <td>Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
+      <td style="width: 50%">Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
       </td>
       <td style="width: 50%">
         <img src="./github-metrics.svg" alt="Metrics">
