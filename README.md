@@ -18,22 +18,9 @@
   <br/>
 </div>
 
-# Contact 
-<div> 
- <img align="right" src="./github-metrics.svg" width="300">
-<p style="font-weight: bold;">
-Github: 
-<a href="https://github.com/mBlomsterberg">mBlomsterberg</a>
-</p>
-<p style="font-weight: bold;">
-Linkedin: 
-<a href="https://www.linkedin.com/in/mikkel-blomsterberg-663b785a/">Mikkel Blomsterberg</a>
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-</div>
+# Metrics 
+ <img src="./github-metrics.svg" width="350">
+
 
 
 # License
