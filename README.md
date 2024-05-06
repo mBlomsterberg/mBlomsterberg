@@ -1,5 +1,4 @@
 <br />
- <img align="right" src="./github-metrics.svg" width="300">
 <div id="readme-top" align="center" style="margin-top: 50px">
   <a href="https://github.com/mBlomsterberg/">
     <picture>
@@ -23,7 +22,8 @@
 **Github** [mBlomsterberg](https://github.com/mBlomsterberg) 
 
 **Linkedin** [Mikkel Blomsterberg](https://www.linkedin.com/in/mikkel-blomsterberg-663b785a/)
-
+ <img align="right" src="./github-metrics.svg" width="300">
+<div style="height: 150px"></div>
 
 # License
 
