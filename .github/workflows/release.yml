@@ -1,17 +1,6 @@
 name: Reusable Workflow Release 
 
 on:
-  push:
-    branches: [ main ]
-  #   tags:
-  #     - "fix"
-  #     - "feat"
-  #     - "breaking"
-  #     - "docs"
-  #     - "refactor"
-  #     - "style"
-  #     - "perf"
-
   repository_dispatch:
     types: [semantic-release]
 

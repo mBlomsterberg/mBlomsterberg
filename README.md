@@ -1,5 +1,6 @@
 <br />
-<div id="readme-top" align="center">
+ <img style="position: absolute; right: 15px " src="./github-metrics.svg" width="200">
+<div id="readme-top" align="center" style="margin-top: 50px">
   <a href="https://github.com/mBlomsterberg/">
     <picture>
       <source srcset="logo_inv.png" media="(prefers-color-scheme: dark)">
@@ -14,22 +15,9 @@
     <br />
     <br />
     <a href="https://blomsterberg.org">https://blomsterberg.org</a>
-
   </p>
   <br/>
 </div>
-
-
-# About
-<section markdown="1" style="display: flex;">
-  <div markdown="1" style="width: 408px">
-      Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
-  </div>
-    <div markdown="1">
-      <img src="./github-metrics.svg" alt="Metrics" style="width: 408px;">
-    </div>
-  </div>
-</section>
 
 # Contact 
 **Github** [mBlomsterberg](https://github.com/mBlomsterberg) 
