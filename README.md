@@ -1,5 +1,5 @@
 <br />
- <img style="position: absolute; right: 15px " src="./github-metrics.svg" width="200">
+ <img align="right" src="./github-metrics.svg" width="300">
 <div id="readme-top" align="center" style="margin-top: 50px">
   <a href="https://github.com/mBlomsterberg/">
     <picture>
