@@ -16,16 +16,20 @@
     <a href="https://blomsterberg.org">https://blomsterberg.org</a>
 
   </p>
-  <br />
+  <br/>
 </div>
 
 
 # About
-  <div align="left">
-      <div style="width: 408px">Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
-      </div>
-      <img align="right" src="./github-metrics.svg" alt="Metrics" style="width: 412px;">
+<section markdown="1" style="display: flex;">
+  <div markdown="1">
+      Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
   </div>
+    <div markdown="1">
+      <img src="./github-metrics.svg" alt="Metrics" style="width: 412px;">
+    </div>
+  </div>
+</section>
 
 # Contact 
 **Github** [mBlomsterberg](https://github.com/mBlomsterberg) 
