@@ -21,12 +21,12 @@
 
 
 # About
-<div style="display: flex; width: 100%">
- <div style="width: 100%; text-align: justify; text-justify: inter-word; margin-right: 15px">
+<div style="display: flex; flex-direction: row; ">
+ <div style="width: 50%; text-align: justify; text-justify: inter-word; margin-right: 15px">
  Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
  </div>
 </br>
-<div style="width: 100%">
+<div style="width: 50%;">
   <img src="./github-metrics.svg" alt="Metrics">
 </div>
 </div>
