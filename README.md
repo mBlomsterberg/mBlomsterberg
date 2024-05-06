@@ -21,15 +21,11 @@
 
 
 # About
-<table>
-  <tr>
-      <td style="width: 50%">Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
-      </td>
-      <td style="width: 50%">
-        <img src="./github-metrics.svg" alt="Metrics">
-      </td>
-  </tr>
-</table>
+  <div align="center">
+      <div style="width: 412px">Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
+      </div>
+      <img src="./github-metrics.svg" alt="Metrics" style="width: 412px;">
+  </div>
 
 # Contact 
 **Github** [mBlomsterberg](https://github.com/mBlomsterberg) 
