@@ -22,11 +22,11 @@
 
 # About
 <section markdown="1" style="display: flex;">
-  <div markdown="1">
+  <div markdown="1" style="width: 408px">
       Just a DevOps Engineer with a passion for leveraging GitHub, Terraform, and AWS to streamline software development and deployment. With a focus on automation and efficiency, I help teams build scalable and reliable infrastructure to support their applications. 
   </div>
     <div markdown="1">
-      <img src="./github-metrics.svg" alt="Metrics" style="width: 412px;">
+      <img src="./github-metrics.svg" alt="Metrics" style="width: 408px;">
     </div>
   </div>
 </section>
