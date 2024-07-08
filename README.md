@@ -18,8 +18,11 @@
   <br/>
 </div>
 
-# Metrics 
+
+<div align="center">
+ <img src="./fullyear.svg">
  <img src="./github-metrics.svg" width="350">
+</div>
 
 
 
